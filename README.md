@@ -1,0 +1,1 @@
+The vacancy rates in Oakland for the previous 5 years are compared with the crime data and I observed if one impacted the other. In addition, if either is on a decreasing rate or increasing rate during that same period.
